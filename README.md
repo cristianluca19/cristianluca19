@@ -4,7 +4,7 @@ Hola, soy  Cristian Martin Lucatti. Soy Programador  Full Stack en Buenos Aires,
 
 Mis conocimientos en programación:
 
--JAVASCRIPT ( ES6 )
+- JAVASCRIPT ( ES6 )
 - HTML
 - CSS (BOOTSTRAP | MATERIAL UI )
 - REACT
