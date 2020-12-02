@@ -1,4 +1,23 @@
 ### Hi there 👋
+
+Hola, soy  Cristian Martin Lucatti. Soy Programador  Full Stack en Buenos Aires, Argentina. Soy una persona proactiva, apasionado de la programación. Me gusta el poder crear y desarrollar proyectos  mediante las herramientas que la programación me ofrece, buscando soluciones inmediatas a problemas presentados.
+
+Mis conocimientos en programación;
+# JAVASCRIPT ( ES6 )
+# HTML
+# CSS (BOOTSTRAP | MATERIAL UI )
+# REACT
+# REDUX
+# NODE JS
+# SEQUELIZE
+# POSTGRE SQL
+# GIT | GITHUB
+# METODOLOGIA SCRUM
+
+Contacto:
+• cristianlucatti@gmail.com
+• +54 (03547) 15-548304
+ https://www.linkedin.com/in/cristian-lucatti
 ---
 [![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=cristianluca19&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
